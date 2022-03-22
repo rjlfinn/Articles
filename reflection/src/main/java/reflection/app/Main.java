@@ -1,4 +1,4 @@
-package com.company.rjlfinn;
+package reflection.app;
 
 import java.lang.reflect.AnnotatedType;
 import java.lang.reflect.InvocationTargetException;

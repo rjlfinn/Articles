@@ -1,4 +1,4 @@
-package com.company.rjlfinn;
+package reflection.app;
 
 public class Apple {
 
